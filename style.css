@@ -1,0 +1,61 @@
+body {
+    background: #1f1e1e;
+}
+.main {
+    border: 5px solid rgb(78, 77, 77);
+    width: 220px;
+    height: 550;
+    margin: 0 auto;
+    padding: 10px 5px;
+    color: black;
+    border-radius: 5%;
+    background-color: #fff;
+  }
+  
+  .result {
+    width: 96.4%;
+    height : 50px;
+    position: relative;
+    top: -2px;
+    background-color: rgb(100, 99, 99);
+    color: #fff;
+    font-size: 18px;
+    border-radius: 5%;
+    
+  }
+  
+  .clearBtn {
+    width : 48%;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    background-color: rgb(140, 58, 216);
+    font-size: 20px;
+   
+  }
+   .dotbtn {
+
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    background-color:  rgb(140, 58, 216);
+    font-size: 20px;
+   
+   }
+  
+  .btn {
+    background-color: rgb(140, 58, 216);
+    width: 49.9px;
+    margin: 1px;
+    font-size: 20px;
+  
+  }
+  
+  .halfBtn {
+    background-color: rgb(140, 58, 216);
+    width: 100%;
+    margin-top: 5px;
+    font-size: 20px;
+    
+  }
+  
+ 
